@@ -1,6 +1,7 @@
 <div align="center"><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40">
+  <img src="https://img.shields.io/badge/Python-16161A?style=for-the-badge&logo=python&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Django-16161A?style=for-the-badge&logo=django&logoColor=00FF9D"/>
+  <img src="https://img.shields.io/badge/MySQL-16161A?style=for-the-badge&logo=mysql&logoColor=4DA8FF"/>
+  <img src="https://img.shields.io/badge/SQLite-16161A?style=for-the-badge&logo=sqlite&logoColor=74C0FC"/>
+  <img src="https://img.shields.io/badge/PyCharm-16161A?style=for-the-badge&logo=pycharm&logoColor=00FF9D"/>
 </div>
